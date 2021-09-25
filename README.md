@@ -20,5 +20,5 @@
 ## Rules
 
 1. No NSFW AI, eg, develop AI to remove someone clothing.
-2. All models developed using Malaysia AI resources must be open sourced.
+2. All models developed using Malaysia AI resources must be open sourced, data can remain private.
 3. Do not sabotage other maintainers development.
