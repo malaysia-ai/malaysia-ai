@@ -4,6 +4,11 @@
 - Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com to get invitation.
 - We have cloud Jupyterhub + GPU, TPUs, ElasticSearch and Neo4J for maintainers, all this required to authenticate using Github.
 
+## Any initial discussions here?
+
+1. Add text and speech models in HuggingFace, https://github.com/malaysia-ai/malay-huggingface/issues
+2. Dataset discussions, https://github.com/malaysia-ai/dataset/discussions
+
 ## Main contributors
 
 1. [huseinzol05](https://github.com/huseinzol05)
