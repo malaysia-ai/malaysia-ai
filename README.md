@@ -7,12 +7,7 @@
 
 - A non profit organization to gather open source artificial intelligence for Malaysia.
 - Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com to get invitation.
-- We have cloud Jupyterhub + GPU, TPUs, ElasticSearch and Neo4J for maintainers, all this required to authenticate using Github, and good thing is, no string attached or NDA required!
-
-## Any initial discussions here?
-
-1. Add text and speech models in HuggingFace, https://github.com/malaysia-ai/malay-huggingface/issues
-2. Dataset discussions, https://github.com/malaysia-ai/dataset/discussions
+- We have access to AWS, Azure and Mongo Atlas!
 
 ## Main contributors
 
