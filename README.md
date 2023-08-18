@@ -6,7 +6,7 @@
 </p>
 
 - A non profit organization to gather open source artificial intelligence for Malaysia.
-- Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com to get invitation.
+- Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com or aisyahrazak171@gmail.com to get invitation.
 - We have access to AWS, Azure and Mongo Atlas!
 
 ## Main contributors
@@ -25,5 +25,5 @@
 ## Rules
 
 1. No NSFW AI, eg, develop AI to remove someone clothing.
-2. All models developed using Malaysia AI resources must be open sourced, data can remain private.
+2. All models and dataset developed using Malaysia AI resources must be open sourced.
 3. Do not sabotage other maintainers development.
