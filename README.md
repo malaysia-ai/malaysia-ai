@@ -7,7 +7,8 @@
 
 - A non profit organization to gather open source artificial intelligence for Malaysia.
 - Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com or aisyahrazak171@gmail.com to get invitation.
-- We have access to AWS, Azure and Mongo Atlas!
+- Azure and AWS credits up to 100k USD.
+- 5000 USD Mongo Atlas.
 
 ## Main contributors
 
@@ -27,3 +28,4 @@
 1. No NSFW AI, eg, develop AI to remove someone clothing.
 2. All models and dataset developed using Malaysia AI resources must be open sourced.
 3. Do not sabotage other maintainers development.
+4. If you are interested to use the credits, you must teach back what have you done with the credits inside [👨🏻💻 Dev Talk Discord](https://discord.com/servers/dev-talk-1093904748521996298).
