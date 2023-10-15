@@ -5,7 +5,7 @@
 </p>
 
 - A non profit organization to gather open source artificial intelligence for Malaysia.
-- Feel free to join this organization, email husein.zol05@gmail.com or khursani8@gmail.com or aisyahrazak171@gmail.com to get invitation.
+- Join the discord!
 - Azure and AWS credits up to 100k USD.
 - 5000 USD Mongo Atlas.
 
