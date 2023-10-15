@@ -1,8 +1,7 @@
 <h2 align="center">👋 Welcome to Malaysia-AI repository</h2>
 
 <p align="center">
-    <a href="https://discord.gg/bdvempsKwb"><img alt="discord" src="https://img.shields.io/badge/discord%20server-malaysia--AI-rgb(118,138,212).svg"></a>
-  <a href="https://t.me/+tB3jtdjSzzUzZmNl"><img alt="discord" src="https://img.shields.io/badge/telegram-malaysia--AI-rgb(63,129,198).svg"></a>
+    <a href="https://discord.gg/StCpntxf"><img alt="discord" src="https://img.shields.io/badge/discord%20server-Llama--Project-rgb(118,138,212).svg"></a>
 </p>
 
 - A non profit organization to gather open source artificial intelligence for Malaysia.
