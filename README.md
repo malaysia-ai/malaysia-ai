@@ -16,7 +16,13 @@
 - Develop https://malaya.readthedocs.io and https://malaya-speech.readthedocs.io.
 - Interested in text and speech domain for machine learning.
 
-2. https://github.com/khursani8
+2. https://github.com/aisyahrzk
+
+3. https://github.com/KamarulAdha
+
+4. https://github.com/oscarnz
+
+5. https://github.com/khursani8
 
 - Previously work as Fullstack Software Engineer.
 - Right now mostly work on deep learning especially in Speech data and sometimes Image data.
