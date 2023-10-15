@@ -12,16 +12,21 @@
 
 ## Main contributors
 
-1. [huseinzol05](https://github.com/huseinzol05)
+1. https://github.com/huseinzol05
 
 - Develop https://malaya.readthedocs.io and https://malaya-speech.readthedocs.io.
 - Interested in text and speech domain for machine learning.
 
-2. [khursani8](https://github.com/khursani8)
+2. https://github.com/khursani8
 
 - Previously work as Fullstack Software Engineer.
 - Right now mostly work on deep learning especially in Speech data and sometimes Image data.
 - Interested in Generative technology such as Image generation or Voice conversion.
+
+## Request access
+
+1. Access to Jupyter GPU, https://github.com/malaysia-ai/jupyter-gpu#server-access
+2. Access to AWS, https://github.com/malaysia-ai/aws-access#request-access
 
 ## Rules
 
