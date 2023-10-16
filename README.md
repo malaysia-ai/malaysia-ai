@@ -20,6 +20,9 @@
 
 3. https://github.com/KamarulAdha
 
+- Solutions Associate at KIC (2023).
+- Interested in all things AI/Data.
+
 4. https://github.com/oscarnz
    
 - Currently working as AI Engineer
