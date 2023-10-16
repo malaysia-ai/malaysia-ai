@@ -17,6 +17,8 @@
 - Interested in text and speech domain for machine learning.
 
 2. https://github.com/aisyahrzk
+- Current work involves analytics & big data.
+- Strong interest in machine learning.
 
 3. https://github.com/KamarulAdha
 
