@@ -27,7 +27,7 @@
 - Assisting team to refine training scripts for the Llama Model
 - Interested in machine learning (in general), cloud infra and data engineering
 
-6. https://github.com/khursani8
+5. https://github.com/khursani8
 
 - Previously work as Fullstack Software Engineer.
 - Right now mostly work on deep learning especially in Speech data and sometimes Image data.
