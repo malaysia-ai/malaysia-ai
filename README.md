@@ -25,10 +25,10 @@
 
 4. https://github.com/oscarnz
    
-- Currently working as AI Engineer
-- Deploy scalable aws cloud infrastructures using terraform & kubernetes https://github.com/malaysia-ai/infra
-- Assisting team to refine training scripts for the Llama Model
-- Interested in machine learning (in general), cloud infra and data engineering
+- Currently working as AI Engineer.
+- Deploy scalable aws cloud infrastructures using terraform & kubernetes https://github.com/malaysia-ai/infra.
+- Assisting team to refine training scripts for the Llama Model.
+- Interested in machine learning (in general), cloud infra and data engineering.
 
 5. https://github.com/khursani8
 
