@@ -1,13 +1,10 @@
 <h2 align="center">👋 Welcome to Malaysia-AI repository</h2>
 
-<p align="center">
-    <a href="https://discord.gg/StCpntxf"><img alt="discord" src="https://img.shields.io/badge/discord%20server-Llama--Project-rgb(118,138,212).svg"></a>
-</p>
-
 - A non profit organization to gather open source artificial intelligence for Malaysia.
 - Join the discord!
 - Azure and AWS credits up to 100k USD.
 - 5000 USD Mongo Atlas.
+- Private message `husein.zolkepli` or `nazhan_` in Discord to get invite into private channel.
 
 ## Main contributors
 
